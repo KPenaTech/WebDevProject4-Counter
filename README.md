@@ -1,2 +1,2 @@
-# WebDevProject4-Counter
-Learning JS - Counter
+# WebDevProject4-Counter Program
+Learning JS - Counter Program
